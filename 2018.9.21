@@ -1,0 +1,4 @@
+　名稱：cat 
+　　使用權限：所有使用者 
+　　使用方式：cat [-AbeEnstTuv] [--help] [--version] fileName 
+　　說明：把檔案串連接後傳到基本輸出（螢幕或加 > fileName 到另一個檔案）
